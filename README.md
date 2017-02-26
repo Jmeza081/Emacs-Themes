@@ -14,5 +14,8 @@ Once you have placed the theme file in the correct path, simply load theme via e
 ```M-x customize-themes```
 
 ### Theme Screenshots
+
+
+##### DuoTone DarkSea For Emacs (Ported From Atom)
 ![DuoTone DarkSea](https://github.com/Jmeza081/Emacs-Themes/blob/master/screenshots/DuoTone%20DarkSea%20Emacs.PNG "DuoTone DarkSea")
 This is a loose port of the DuoTone DarkSea Syntax theme series for Atom which can be found [here](https://github.com/simurai/duotone-dark-sea-syntax)
